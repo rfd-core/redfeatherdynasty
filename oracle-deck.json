@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "system": "Oracle of Tehuti — Metu Neter 70-Card Architecture",
+    "version": "1.0.0",
+    "domain": "redfeatherdynasty.com",
+    "total_neteru": 11,
+    "total_metutu": 70
+  },
+  "significators_paut_neteru": [
+    {
+      "sphere": 0,
+      "neter": "Amen",
+      "title": "The Unseen Peace / Unconditioned Source",
+      "faculty": "Transcendental Stillness & Root Unity",
+      "hekau": "Nuk Pu Amen — I am the unshakable stillness prior to all motion.",
+      "natal_baseline": "Rooted in inner quietude, detachment from external chaos, and primal awareness; loses footing if pulled into reactive drama without centering."
+    },
+    {
+      "sphere": 1,
+      "neter": "Ausar",
+      "title": "The Sovereign Spirit / Divine Kingship",
+      "faculty": "Unifying Will & Ancestral Continuity",
+      "hekau": "Nuk Pu Ausar — My will stands indivisible with eternal law.",
+      "natal_baseline": "Natural pillar and standard-bearer who commands through principled character and long-range vision rather than emotional force."
+    },
+    {
+      "sphere": 2,
+      "neter": "Tehuti",
+      "title": "The Divine Scribe / Cosmic Intellect",
+      "faculty": "Wisdom, Measure, Word & Sacred Record",
+      "hekau": "Nuk Pu Tehuti — Exact measure and true speech establish my path.",
+      "natal_baseline": "Master strategist, decoder, and architect of systems; must balance continuous study with decisive physical execution."
+    },
+    {
+      "sphere": 3,
+      "neter": "Seker",
+      "title": "The Lord of the Hidden Chamber",
+      "faculty": "Spiritual Incubation, Alchemy & Inner Sight",
+      "hekau": "Nuk Pu Seker — In sacred seclusion my enduring power is forged.",
+      "natal_baseline": "Transmutes heavy pressure and restriction into structural mastery; requires periodic quiet retreat to incubate major breakthroughs."
+    },
+    {
+      "sphere": 4,
+      "neter": "Maat",
+      "title": "Cosmic Law, Truth & Reciprocity",
+      "faculty": "Equilibrium, Justice & Structural Integrity",
+      "hekau": "Nuk Pu Maat — Truth and proportion govern every step I take.",
+      "natal_baseline": "Anchored in fairness, precision, and cosmic reciprocity; experiences immediate friction when operating inside chaotic or deceptive spaces."
+    },
+    {
+      "sphere": 5,
+      "neter": "Herukhuti",
+      "title": "The Warrior of Divine Will",
+      "faculty": "Discipline, Severance & Focused Courage",
+      "hekau": "Nuk Pu Herukhuti — I sever every obstacle that opposes truth.",
+      "natal_baseline": "Built to break stagnation and defend sovereign boundaries; must ensure intensity serves Maat rather than impulsive anger."
+    },
+    {
+      "sphere": 6,
+      "neter": "Heru",
+      "title": "The Sovereign Solar King",
+      "faculty": "Integrated Will, Leadership & Clear Horizon",
+      "hekau": "Nuk Pu Heru — I survey the whole horizon with unclouded sight.",
+      "natal_baseline": "Harmonizes higher spirit with practical command; excels at unifying people, mission, and resources under one clear banner."
+    },
+    {
+      "sphere": 7,
+      "neter": "Het-Heru",
+      "title": "The House of Heru / Creative Magnetism",
+      "faculty": "Imagination, Joy, Harmony & Attraction",
+      "hekau": "Nuk Pu Het-Heru — Harmonic resonance draws my rightful abundance.",
+      "natal_baseline": "Generates momentum through creative vision, beauty, and emotional resonance; weakens when confined to mechanical, joyless routine."
+    },
+    {
+      "sphere": 8,
+      "neter": "Sebek",
+      "title": "The Lord of Precision & Tactical Mind",
+      "faculty": "Discernment, Instinct & Analytical Agility",
+      "hekau": "Nuk Pu Sebek — Keen discernment guides my every move.",
+      "natal_baseline": "Hyper-alert navigator of complex terrain, contracts, and environments; must temper sharp skepticism with trust in higher order."
+    },
+    {
+      "sphere": 9,
+      "neter": "Auset",
+      "title": "The Throne of Devotion & Astral Receptivity",
+      "faculty": "Intuition, Nurturing & Subconscious Power",
+      "hekau": "Nuk Pu Auset — My receptive spirit captures the true signal.",
+      "natal_baseline": "Deeply intuitive, protective, and devoted; thrives when grounding inner visions into steady daily ritual."
+    },
+    {
+      "sphere": 10,
+      "neter": "Geb",
+      "title": "The Sovereign Earth / Physical Manifestation",
+      "faculty": "Stewardship, Craftsmanship & Material Execution",
+      "hekau": "Nuk Pu Geb — What I conceive takes solid, lasting form on the land.",
+      "natal_baseline": "Master builder and steward of physical assets; turns blueprint into tangible reality when guided by higher principle."
+    }
+  ],
+  "metutu_70": [
+    { "card_id": 1, "code": "MT-00-S1", "sphere": 0, "neter": "Amen", "suit": "Shaping Factor of Success", "name": "Unconditioned Stillness", "condition": "Inner quietude reveals the unseen root behind surface turmoil.", "directive": "Withdraw from reactive noise; let stillness dictate your next move." },
+    { "card_id": 2, "code": "MT-00-S2", "sphere": 0, "neter": "Amen", "suit": "Shaping Factor of Success", "name": "Absolute Unity of Purpose", "condition": "All scattered faculties converge into one indivisible center.", "directive": "Act from whole alignment rather than divided loyalty or fear." },
+    { "card_id": 3, "code": "MT-00-F1", "sphere": 0, "neter": "Amen", "suit": "Shaping Factor of Failure", "name": "Passive Disengagement", "condition": "Detachment slips into avoidance of necessary worldly responsibility.", "directive": "Do not mistake inaction for peace; step forward where duty calls." },
+    { "card_id": 4, "code": "MT-00-F2", "sphere": 0, "neter": "Amen", "suit": "Shaping Factor of Failure", "name": "Spiritual Isolation", "condition": "Cutting off vital allies and grounded feedback creates blind spots.", "directive": "Reconnect your inner vision with accountable community and action." },
+    { "card_id": 5, "code": "MT-00-T1", "sphere": 0, "neter": "Amen", "suit": "A Place and Time For All Things", "name": "The Season of Deep Retreat", "condition": "External doors pause so internal clarity can reset.", "directive": "Honor a cycle of rest, meditation, and silent recalibration." },
+    { "card_id": 6, "code": "MT-00-T2", "sphere": 0, "neter": "Amen", "suit": "A Place and Time For All Things", "name": "Prior to Manifestation", "condition": "The seed rests underground before breaking soil.", "directive": "Protect your plans in silence until the foundation is ready." },
+
+    { "card_id": 7, "code": "MT-01-S1", "sphere": 1, "neter": "Ausar", "suit": "Shaping Factor of Success", "name": "Sovereign Will & Integrity", "condition": "Steadfast adherence to divine principle commands natural authority.", "directive": "Lead by unshakable character; refuse shortcuts that compromise honor." },
+    { "card_id": 8, "code": "MT-01-S2", "sphere": 1, "neter": "Ausar", "suit": "Shaping Factor of Success", "name": "Resurrection of Purpose", "condition": "What appeared fragmented is reassembled into higher strength.", "directive": "Reclaim scattered pieces of your mission and restore the original standard." },
+    { "card_id": 9, "code": "MT-01-F1", "sphere": 1, "neter": "Ausar", "suit": "Shaping Factor of Failure", "name": "Rigidity & Pride", "condition": "Refusal to bend or listen invites unnecessary division.", "directive": "Distinguish true sovereignty from stubborn ego; stay teachable." },
+    { "card_id": 10, "code": "MT-01-F2", "sphere": 1, "neter": "Ausar", "suit": "Shaping Factor of Failure", "name": "Abdication of Authority", "condition": "Handing your decision-making power over to external voices.", "directive": "Reclaim command of your house, records, and spiritual direction." },
+    { "card_id": 11, "code": "MT-01-T1", "sphere": 1, "neter": "Ausar", "suit": "A Place and Time For All Things", "name": "The Rite of Initiation", "condition": "A threshold test measures whether your will matches your words.", "directive": "Stand firm through the trial; endurance unlocks the next rank." },
+    { "card_id": 12, "code": "MT-01-T2", "sphere": 1, "neter": "Ausar", "suit": "A Place and Time For All Things", "name": "Ancestral Reckoning", "condition": "Lineage patterns surface for conscious elevation and closure.", "directive": "Honor what was built before you and elevate the standard forward." },
+
+    { "card_id": 13, "code": "MT-02-S1", "sphere": 2, "neter": "Tehuti", "suit": "Shaping Factor of Success", "name": "Exact Measure & Blueprint", "condition": "Clear calculation and documented strategy eliminate guesswork.", "directive": "Map the architecture completely before committing resources." },
+    { "card_id": 14, "code": "MT-02-S2", "sphere": 2, "neter": "Tehuti", "suit": "Shaping Factor of Success", "name": "Power of the Spoken Word", "condition": "Precise, truthful speech brings order out of confusion.", "directive": "Articulate your terms clearly in writing and speech today." },
+    { "card_id": 15, "code": "MT-02-F1", "sphere": 2, "neter": "Tehuti", "suit": "Shaping Factor of Failure", "name": "Endless Calculation Without Action", "condition": "Over-planning delays real-world execution past the window of opportunity.", "directive": "Close the notebook and execute the primary step today." },
+    { "card_id": 16, "code": "MT-02-F2", "sphere": 2, "neter": "Tehuti", "suit": "Shaping Factor of Failure", "name": "Intellectual Arrogance", "condition": "Relying on cleverness while ignoring higher wisdom and heart.", "directive": "Subordinate raw intellect to Maat and practical service." },
+    { "card_id": 17, "code": "MT-02-T1", "sphere": 2, "neter": "Tehuti", "suit": "A Place and Time For All Things", "name": "The Hour of Study & Audit", "condition": "Circumstances call for verifying records, ledgers, and primary sources.", "directive": "Audit your numbers, contracts, and code before signing or shipping." },
+    { "card_id": 18, "code": "MT-02-T2", "sphere": 2, "neter": "Tehuti", "suit": "A Place and Time For All Things", "name": "Transmission of Knowledge", "condition": "The cycle turns toward teaching, publishing, and archiving.", "directive": "Document your findings clearly so others can build upon them." },
+
+    { "card_id": 19, "code": "MT-03-S1", "sphere": 3, "neter": "Seker", "suit": "Shaping Factor of Success", "name": "Alchemical Transformation", "condition": "Internal pressure is forged into durable spiritual and mental gold.", "directive": "Use current constraints as fuel to refine your craft." },
+    { "card_id": 20, "code": "MT-03-S2", "sphere": 3, "neter": "Seker", "suit": "Shaping Factor of Success", "name": "Vision in the Hidden Chamber", "condition": "Deep introspection reveals solutions invisible on the surface.", "directive": "Trust your inner sight even when external validation is absent." },
+    { "card_id": 21, "code": "MT-03-F1", "sphere": 3, "neter": "Seker", "suit": "Shaping Factor of Failure", "name": "Brooding & Heavy Melancholy", "condition": "Dwelling on past wounds traps vital energy in stagnation.", "directive": "Release what is dead; bring light and movement back into your routine." },
+    { "card_id": 22, "code": "MT-03-F2", "sphere": 3, "neter": "Seker", "suit": "Shaping Factor of Failure", "name": "Secrecy Rooted in Fear", "condition": "Hiding necessary truths breeds distrust and isolation.", "directive": "Maintain sacred discretion without sliding into fearful concealment." },
+    { "card_id": 23, "code": "MT-03-T1", "sphere": 3, "neter": "Seker", "suit": "A Place and Time For All Things", "name": "The Gestation Cycle", "condition": "A project or transformation requires quiet incubation before reveal.", "directive": "Work behind the scenes; do not force premature exposure." },
+    { "card_id": 24, "code": "MT-03-T2", "sphere": 3, "neter": "Seker", "suit": "A Place and Time For All Things", "name": "Passage Through the Narrow Gate", "condition": "Old structures shed away so a stronger form can emerge.", "directive": "Let non-essential weight drop off without resistance." },
+
+    { "card_id": 25, "code": "MT-04-S1", "sphere": 4, "neter": "Maat", "suit": "Shaping Factor of Success", "name": "Equilibrium on the Scales", "condition": "Intent, speech, and action stand in true proportion.", "directive": "Keep your word exact; fairness guarantees enduring backing." },
+    { "card_id": 26, "code": "MT-04-S2", "sphere": 4, "neter": "Maat", "suit": "Shaping Factor of Success", "name": "Lawful Reciprocity", "condition": "Equitable exchange multiplies trust and long-term prosperity.", "directive": "Ensure every partnership and transaction honors mutual value." },
+    { "card_id": 27, "code": "MT-04-F1", "sphere": 4, "neter": "Maat", "suit": "Shaping Factor of Failure", "name": "Self-Righteous Rigidity", "condition": "Judging others harshly while overlooking your own blind spots.", "directive": "Weigh your own conduct on the scales first before correcting others." },
+    { "card_id": 28, "code": "MT-04-F2", "sphere": 4, "neter": "Maat", "suit": "Shaping Factor of Failure", "name": "Compromise of Principle", "condition": "Bending truth for short-term convenience destabilizes the whole build.", "directive": "Correct any imbalance immediately before building higher." },
+    { "card_id": 29, "code": "MT-04-T1", "sphere": 4, "neter": "Maat", "suit": "A Place and Time For All Things", "name": "The Day of Weighing", "condition": "Past actions reach natural equilibrium and return their exact harvest.", "directive": "Accept outcomes cleanly and adjust course with objectivity." },
+    { "card_id": 30, "code": "MT-04-T2", "sphere": 4, "neter": "Maat", "suit": "A Place and Time For All Things", "name": "Setting the Plumb Line", "condition": "Time to establish clear rules, boundaries, and governance.", "directive": "Put clear agreements and standards in place before scaling." },
+
+    { "card_id": 31, "code": "MT-05-S1", "sphere": 5, "neter": "Herukhuti", "suit": "Shaping Factor of Success", "name": "Disciplined Decisiveness", "condition": "Focused courage cuts cleanly through hesitation and opposition.", "directive": "Strike at the root bottleneck with precision and discipline." },
+    { "card_id": 32, "code": "MT-05-S2", "sphere": 5, "neter": "Herukhuti", "suit": "Shaping Factor of Success", "name": "Sovereign Defense", "condition": "Firm boundaries protect your work and household from intrusion.", "directive": "Enforce your standards without apology or wasted emotion." },
+    { "card_id": 33, "code": "MT-05-F1", "sphere": 5, "neter": "Herukhuti", "suit": "Shaping Factor of Failure", "name": "Reactive Wrath & Rashness", "condition": "Unchecked anger or haste destroys alliances and clouds judgment.", "directive": "Cool the heat first; never execute a major move in anger." },
+    { "card_id": 34, "code": "MT-05-F2", "sphere": 5, "neter": "Herukhuti", "suit": "Shaping Factor of Failure", "name": "Timidity & Retreat", "condition": "Flinching when decisive action is required invites encroachment.", "directive": "Summon your backbone and address the confrontation directly." },
+    { "card_id": 35, "code": "MT-05-T1", "sphere": 5, "neter": "Herukhuti", "suit": "A Place and Time For All Things", "name": "The Hour of Severance", "condition": "A cycle ends decisively; dead weight must be cut away.", "directive": "Terminate expired commitments and clear the field." },
+    { "card_id": 36, "code": "MT-05-T2", "sphere": 5, "neter": "Herukhuti", "suit": "A Place and Time For All Things", "name": "Forcing the Breakthrough", "condition": "Momentum demands concentrated effort to breach resistance.", "directive": "Apply focused, time-boxed intensity to finish the critical push." },
+
+    { "card_id": 37, "code": "MT-06-S1", "sphere": 6, "neter": "Heru", "suit": "Shaping Factor of Success", "name": "Solar Command & Clarity", "condition": "Integrated will aligns higher purpose with practical execution.", "directive": "Step into full visibility and direct the operation clearly." },
+    { "card_id": 38, "code": "MT-06-S2", "sphere": 6, "neter": "Heru", "suit": "Shaping Factor of Success", "name": "The Falcon's Perspective", "condition": "Elevated vantage point reveals both immediate detail and distant horizon.", "directive": "Keep the overarching mission in view while managing daily tasks." },
+    { "card_id": 39, "code": "MT-06-F1", "sphere": 6, "neter": "Heru", "suit": "Shaping Factor of Failure", "name": "Ego Inflation & Domination", "condition": "Mistaking personal vanity for divine kingship alienates support.", "directive": "Serve the mission rather than demanding tribute for yourself." },
+    { "card_id": 40, "code": "MT-06-F2", "sphere": 6, "neter": "Heru", "suit": "Shaping Factor of Failure", "name": "Divided Will", "condition": "Pulling in conflicting directions scatters your solar force.", "directive": "Consolidate priorities around one primary objective today." },
+    { "card_id": 41, "code": "MT-06-T1", "sphere": 6, "neter": "Heru", "suit": "A Place and Time For All Things", "name": "The Coronation / Public Launch", "condition": "Conditions favor stepping forward and presenting finished work.", "directive": "Publish, launch, or declare your position openly." },
+    { "card_id": 42, "code": "MT-06-T2", "sphere": 6, "neter": "Heru", "suit": "A Place and Time For All Things", "name": "Reconciling the Two Lands", "condition": "Opposing forces can now be unified under balanced leadership.", "directive": "Bridge competing priorities into one cohesive system." },
+
+    { "card_id": 43, "code": "MT-07-S1", "sphere": 7, "neter": "Het-Heru", "suit": "Shaping Factor of Success", "name": "Creative Magnetism", "condition": "Joyful conviction and artistic harmony attract natural support.", "directive": "Infuse your craft with beauty, rhythm, and authentic passion." },
+    { "card_id": 44, "code": "MT-07-S2", "sphere": 7, "neter": "Het-Heru", "suit": "Shaping Factor of Success", "name": "Visualized Fulfillment", "condition": "Vivid inner imagery imprints the blueprint onto reality.", "directive": "Hold the completed vision clearly in mind as you build." },
+    { "card_id": 45, "code": "MT-07-F1", "sphere": 7, "neter": "Het-Heru", "suit": "Shaping Factor of Failure", "name": "Sensual Indulgence & Distraction", "condition": "Chasing comfort or stimulation drains focus from core discipline.", "directive": "Reclaim your time from diversions and return to structured work." },
+    { "card_id": 46, "code": "MT-07-F2", "sphere": 7, "neter": "Het-Heru", "suit": "Shaping Factor of Failure", "name": "Illusion & Wishful Thinking", "condition": "Mistaking pleasant fantasy for verified ground truth.", "directive": "Test every attractive promise against concrete facts." },
+    { "card_id": 47, "code": "MT-07-T1", "sphere": 7, "neter": "Het-Heru", "suit": "A Place and Time For All Things", "name": "Season of Fellowship & Celebration", "condition": "Social harmony, music, and shared joy restore collective vitality.", "directive": "Invest time in family, creative expression, and community bond." },
+    { "card_id": 48, "code": "MT-07-T2", "sphere": 7, "neter": "Het-Heru", "suit": "A Place and Time For All Things", "name": "The Creative Spark", "condition": "Fresh inspiration arrives to refresh stale routines.", "directive": "Capture the creative idea immediately before momentum fades." },
+
+    { "card_id": 49, "code": "MT-08-S1", "sphere": 8, "neter": "Sebek", "suit": "Shaping Factor of Success", "name": "Tactical Discernment", "condition": "Sharp observation detects hidden leverage and subtle risks early.", "directive": "Read the fine print and trust your verified pattern recognition." },
+    { "card_id": 50, "code": "MT-08-S2", "sphere": 8, "neter": "Sebek", "suit": "Shaping Factor of Success", "name": "Adaptive Strategy", "condition": "Agile thinking turns shifting conditions to your advantage.", "directive": "Adjust your route cleanly without losing sight of the target." },
+    { "card_id": 51, "code": "MT-08-F1", "sphere": 8, "neter": "Sebek", "suit": "Shaping Factor of Failure", "name": "Cynicism & Hyper-Suspicion", "condition": "Assuming bad faith everywhere blocks constructive alliances.", "directive": "Verify objectively, then allow trustworthy partners room to operate." },
+    { "card_id": 52, "code": "MT-08-F2", "sphere": 8, "neter": "Sebek", "suit": "Shaping Factor of Failure", "name": "Fragmented Over-Analysis", "condition": "Dissecting minor details paralyzes decisive execution.", "directive": "Stop over-optimizing; commit to the build and ship." },
+    { "card_id": 53, "code": "MT-08-T1", "sphere": 8, "neter": "Sebek", "suit": "A Place and Time For All Things", "name": "Navigating Turbulent Waters", "condition": "External environment is shifting rapidly and requires alert steering.", "directive": "Stay nimble, keep reserves liquid, and watch real-time signals." },
+    { "card_id": 54, "code": "MT-08-T2", "sphere": 8, "neter": "Sebek", "suit": "A Place and Time For All Things", "name": "Technical Calibration", "condition": "Systems, tools, or logistics require fine-tuning before heavy load.", "directive": "Inspect wiring, infrastructure, and diagnostics now." },
+
+    { "card_id": 55, "code": "MT-09-S1", "sphere": 9, "neter": "Auset", "suit": "Shaping Factor of Success", "name": "Devoted Intuition", "condition": "Quiet receptivity tunes you directly into ancestral and inner guidance.", "directive": "Listen to your first inner prompt and honor daily spiritual practice." },
+    { "card_id": 56, "code": "MT-09-S2", "sphere": 9, "neter": "Auset", "suit": "Shaping Factor of Success", "name": "Nurturing Protection", "condition": "Patient care and steady devotion sustain long-term growth.", "directive": "Tend consistently to the people, plants, and projects in your care." },
+    { "card_id": 57, "code": "MT-09-F1", "sphere": 9, "neter": "Auset", "suit": "Shaping Factor of Failure", "name": "Emotional Overwhelm", "condition": "Absorbing surrounding moods clouds inner discernment.", "directive": "Cleanse your space, ground your breath, and restore boundaries." },
+    { "card_id": 58, "code": "MT-09-F2", "sphere": 9, "neter": "Auset", "suit": "Shaping Factor of Failure", "name": "Clinging to the Past", "condition": "Nostalgia or attachment prevents embracing necessary renewal.", "directive": "Honor the memory, then release the old form so life can advance." },
+    { "card_id": 59, "code": "MT-09-T1", "sphere": 9, "neter": "Auset", "suit": "A Place and Time For All Things", "name": "The Lunar Tide", "condition": "Subconscious insights and dreams carry heightened clarity.", "directive": "Record dreams and intuitive impressions upon waking." },
+    { "card_id": 60, "code": "MT-09-T2", "sphere": 9, "neter": "Auset", "suit": "A Place and Time For All Things", "name": "Sanctuary & Restoration", "condition": "Home, hearth, and inner temple take precedence over public push.", "directive": "Strengthen domestic harmony and personal recovery." },
+
+    { "card_id": 61, "code": "MT-10-S1", "sphere": 10, "neter": "Geb", "suit": "Shaping Factor of Success", "name": "Solid Foundation & Craft", "condition": "Methodical physical execution produces durable, tangible wealth.", "directive": "Build with quality materials and disciplined workmanship." },
+    { "card_id": 62, "code": "MT-10-S2", "sphere": 10, "neter": "Geb", "suit": "Shaping Factor of Success", "name": "Stewardship of the Land", "condition": "Respecting natural cycles and physical assets yields steady abundance.", "directive": "Invest effort into land, hardware, and self-reliant infrastructure." },
+    { "card_id": 63, "code": "MT-10-F1", "sphere": 10, "neter": "Geb", "suit": "Shaping Factor of Failure", "name": "Material Attachment & Inertia", "condition": "Fear of loss or obsession with possessions blocks higher vision.", "directive": "Remember that material assets are tools for spirit, never masters." },
+    { "card_id": 64, "code": "MT-10-F2", "sphere": 10, "neter": "Geb", "suit": "Shaping Factor of Failure", "name": "Neglect of Physical Form", "condition": "Ignoring body, maintenance, or finances weakens the entire structure.", "directive": "Address physical maintenance, rest, and ledger hygiene today." },
+    { "card_id": 65, "code": "MT-10-T1", "sphere": 10, "neter": "Geb", "suit": "A Place and Time For All Things", "name": "The Harvest Window", "condition": "Past labor ripens into concrete results ready to be gathered.", "directive": "Collect, organize, and secure what your work has produced." },
+    { "card_id": 66, "code": "MT-10-T2", "sphere": 10, "neter": "Geb", "suit": "A Place and Time For All Things", "name": "Breaking Ground", "condition": "Time to turn blueprints into physical structures and assets.", "directive": "Take concrete material action on your primary project today." },
+
+    { "card_id": 67, "code": "MT-67-RA", "sphere": 6, "neter": "Ra", "suit": "Shaping Factor of Success", "name": "Solar Illumination & Vital Force", "condition": "Direct life-force energizes your faculties and exposes hidden truth.", "directive": "Step into morning light, breathe deeply, and act with clear vitality." },
+    { "card_id": 68, "code": "MT-68-NK", "sphere": 1, "neter": "Nekhebet", "suit": "Shaping Factor of Success", "name": "Protection of the Upper Crown", "condition": "Higher spiritual guardianship shields your mission from distortion.", "directive": "Keep your intentions elevated; protection follows purity of purpose." },
+    { "card_id": 69, "code": "MT-69-UA", "sphere": 10, "neter": "Uatchet", "suit": "A Place and Time For All Things", "name": "Awakening of Vital Serpent Force", "condition": "Dormant earthly vitality rises to empower creative and physical work.", "directive": "Channel rising energy through disciplined breath and purposeful labor." },
+    { "card_id": 70, "code": "MT-70-SH", "sphere": 9, "neter": "Sheps & Ancestral Host", "suit": "A Place and Time For All Things", "name": "Ancestral Elevation & Clearing", "condition": "Elevated ancestors lend backing once unresolved patterns are cleared.", "directive": "Offer gratitude to your elevated lineage and release inherited fear." }
+  ],
+  "combination_rules": {
+    "Success + Success": "Unobstructed Alignment — Both active forces reinforce your path; execute your primary directive with full commitment.",
+    "Success + Failure": "Tested Foundation — A strong opening is challenged by a specific behavioral friction point; correct the blind spot before scaling.",
+    "Failure + Success": "Corrective Breakthrough — Initial resistance dissolves once you apply the specific discipline shown in the second Metut.",
+    "Failure + Failure": "Immediate Recalibration — Halt outward expansion, return to your Natal Significator Hekau, and restore Maat before acting.",
+    "Timing + Success": "Auspicious Window — Seasonal timing and constructive action align; step through the open door decisively.",
+    "Timing + Failure": "Patience & Restraint — The hour requires stillness or preparation rather than force; wait out the friction cleanly.",
+    "Success + Timing": "Structured Execution — Strong momentum governed by chronological order; pace your moves to match the cycle.",
+    "Failure + Timing": "End of Cycle — Outdated habits are expiring with the current phase; release them so the next cycle opens clean.",
+    "Timing + Timing": "Turning of the Wheel — A pivotal threshold moment where timing outweighs effort; observe closely and move in sync with the hour."
+  }
+}
