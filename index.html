@@ -768,47 +768,33 @@
           const src = 'https://www.youtube.com/embed/' + encodeURIComponent(genesisVideoId) + '?rel=0&modestbranding=1';
           g.appendChild(makeIframe(src, 'Genesis Saga: The Awakening of the First 144'));
         }
-      } catch(e){ console.error('Genesis embed failed', e); }
+} catch(e){ console.error('Genesis embed failed', e); }
+    try {
+      const episode1Id = '196Ww6FFW6E';
+      const p = document.getElementById('podcastPlay');
+      if (p) {
+        p.innerHTML = '';
+        const src = 'https://www.youtube.com/embed/' + encodeURIComponent(episode1Id) + '?rel=0&modestbranding=1';
+        p.appendChild(makeIframe(src, 'Coffee Talk with Chief Red Feather'));
+      }
+    } catch(e) { console.error('Podcast embed failed', e); }
+  })();
+  </script>
 
-      try {
-        const episode1Id = 'I6V0p09qEh8';
-        const p = document.getElementById('podcastPlay');
-        if(p){
-          p.innerHTML = '';
-          const src = 'https://www.youtube.com/embed/' + encodeURIComponent(episode1Id) + '?rel=0&modestbranding=1';
-          p.appendChild(makeIframe(src, 'Coffee Talk with Chief Red Feather — Episode 1'));
-        }
-      } catch(e){ console.error('Podcast embed failed', e); }
-    })();
-    </script>
+  <div class="oracle-panel" id="oracle-of-tehuti">
+    <span class="oracle-tag">🪶 METU NETER · 70-CARD DAILY ORACLE</span>
+    <h2>Oracle of Tehuti</h2>
+    <p>Enter your birth date to lock your Natal Paut Neteru Significator (Spheres 0–10) and draw today’s deterministic 2-card Combined Metutu reading.</p>
+    <div style="display:flex; flex-wrap:wrap; gap:0.75rem; justify-content:center; align-items:center; margin-top:1rem;">
+      <input type="date" id="oracleBirthdate" aria-label="Birth Date"
+        style="padding:0.65rem 0.9rem; border-radius:6px; border:1px solid #d4af37; background:#0d0614; color:#fff; font-family:inherit;" />
+      <button type="button" id="oracleDrawBtn" class="btn-primary">
+        ⚡ EXECUTE DAILY ALIGNMENT
+      </button>
+    </div>
+    <div id="oracleReadingOutput"></div>
+  </div>
 
-    <!-- ORACLE OF TEHUTI SCRIPT -->
-    <script>
-        const tehutiGrid = [
-            { sphere: "1. Amen / Ausar", anchor: "The Crown / Top of the head", heka: "AUM or a deep Mmmm", meaning: "Pure unity, resetting the nervous system to zero." },
-            { sphere: "2 & 3. Tehuti & Sekhmet", anchor: "The Brain hemispheres (Pineal/Pituitary)", heka: "High-pitched Eeee", meaning: "Activating the left (logic) and right (intuition) brain." },
-            { sphere: "4 & 5. Maat & Herukhuti", anchor: "The Throat & Upper Chest", heka: "Guttural Aahhh or Kha", meaning: "Activating the throat (truth/law) and the breath (force/justice)." },
-            { sphere: "6. Heru (The Center)", anchor: "The Heart / Sternum", heka: "Deep Ooooh or Yaaaa", meaning: "The central balance point; the engine of the will." },
-            { sphere: "7 & 8. Het-Heru & Sebek", anchor: "The Solar Plexus / Gut", heka: "Uuuuh (like 'look')", meaning: "Activating imagination and data processing/gut instinct." },
-            { sphere: "9. Auset (The Matrix)", anchor: "The Sacral / Pelvic region", heka: "Low, rumbling Ohh", meaning: "The womb of creation; gathering the energy right before manifestation." },
-            { sphere: "10. Geb (The Earth)", anchor: "The Root / Base of the spine", heka: "Heavy, percussive Lam or Guh", meaning: "The grounding point; locking the frequency into the physical cubes of Metatron." }
-        ];
-
-        document.getElementById('draw-oracle-btn').addEventListener('click', function() {
-            const roll = Math.floor(Math.random() * tehutiGrid.length);
-            const result = tehutiGrid[roll];
-
-            document.getElementById('oracle-sphere').innerText = result.sphere;
-            document.getElementById('oracle-anchor').innerText = result.anchor;
-            document.getElementById('oracle-meaning').innerText = result.meaning;
-            document.getElementById('oracle-heka').innerText = result.heka;
-
-            const outputDiv = document.getElementById('oracle-output');
-            outputDiv.style.display = 'block';
-
-            this.innerText = "Re-calibrate Matrix";
-            this.style.background = "linear-gradient(135deg, var(--onyx), var(--card-bg))";
-        });
-    </script>
+  <script src="./oracle-tehuti.js" defer></script>
 </body>
-</html>
+</html>  
